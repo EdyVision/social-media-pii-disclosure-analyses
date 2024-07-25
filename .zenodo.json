@@ -1,0 +1,25 @@
+{
+  "access_right": "open",
+  "version": "0.0.1",
+  "creators": [
+    {
+      "orcid": "0000-0003-0665-098X",
+      "name": "Eidan J. Rosado",
+      "affiliation": "College of Computing and Engineering, Nova Southeastern University, Fort Lauderdale, FL 33314, USA"
+    }
+  ],
+  "keywords": [
+    "PII",
+    "PII Detection",
+    "social media",
+    "reddit",
+    "twitter",
+    "X",
+    "personal identifiable information",
+    "social media analysis"
+  ],
+  "license": "BSD-3-Clause",
+  "title": "Privacy vs. Social Capital: Social Media PII Disclosure Analyses",
+  "language": "eng",
+  "description": "Cluster level and post level engagement and PII disclosure analysis results using Twitter (X) and Reddit posts with all identifying attributes redacted."
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: Rosado
+    given-names: Eidan J.
+    orcid: https://orcid.org/0000-0003-0665-098X
+version: 0.0.1
+date-released: 2024-07-25
+title: "Privacy vs. Social Capital: Social Media PII Disclosure Analyses"
