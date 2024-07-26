@@ -18,7 +18,7 @@
     "personal identifiable information",
     "social media analysis"
   ],
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "title": "Privacy vs. Social Capital: Social Media PII Disclosure Analyses",
   "language": "eng",
   "description": "Cluster level and post level engagement and PII disclosure analysis results using Twitter (X) and Reddit posts with all identifying attributes redacted."
