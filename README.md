@@ -10,7 +10,7 @@
 
 </div>
 
-This data was used to analyze PII disclosures in threads with special attention to influencer characteristics in the interactions in the dissertation titled `Privacy vs. Social Capital: Examining Information Disclosure Patterns within Social Media Influencer Networks` and the research paper titled `Unveiling Influencer-Driven Personal Data Sharing in Social Media Discourse`.
+This data was used to analyze PII disclosures in threads with special attention to influencer characteristics in the interactions in the dissertation titled `Privacy vs. Social Capital: Examining Information Disclosure Patterns within Social Media Influencer Networks` and the research paper titled `Unveiling Influencer-Driven PII Disclosures in Social Media Discourse`.
 
 Author: Eidan Rosado - [@EdyVision](https://github.com/EdyVision)  <br/>
 Affiliation: Nova Southeastern University, College of Computing and Engineering
